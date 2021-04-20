@@ -3,6 +3,7 @@ Scraper and OCR content matching bot for Instagram Stories
 
 # Requirements
 - You'll need Chrome installed to allow the script to connect to the Instagram webpage.
+- You'll need Tesseract installed from this URL `https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20201127.exe`
 - All other Python requirements can be installed by running in your terminal `pip install -r requirements.txt`
 
 # Startup
